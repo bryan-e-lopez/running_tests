@@ -1,4 +1,4 @@
-package starter.java;
+//package starter.java;
 public class Main {
 
     // Function to be tested
